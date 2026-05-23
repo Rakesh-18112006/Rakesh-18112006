@@ -142,6 +142,13 @@ I'm a **Fullstack Developer** who lives at the intersection of scalable web apps
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Rakesh-18112006/Rakesh-18112006/output/snake-dark.svg" alt="Snake animation" />
+
+</div>
 <!-- ═══════════════════════════ SECTION G: ACTIVITY GRAPH ═══════════════════════════ -->
 
 ## 📈 Contribution Graph
