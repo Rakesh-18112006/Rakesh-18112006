@@ -5,9 +5,8 @@
 
 <!-- ═══════════════════════════ SECTION A: ANIMATED HEADER ═══════════════════════════ -->
 
-<div align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Rakesh+Mummana+👋;Fullstack+Developer+|+1+Year+XP;MERN+|+PERN+|+AI+|+GenAI;Agentic+AI+|+DevOps+|+AWS;Building+the+Future+with+Code+🚀)
-</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
