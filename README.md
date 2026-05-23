@@ -100,7 +100,7 @@ I'm a **Fullstack Developer** who lives at the intersection of scalable web apps
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/RakeshMummana" target="_blank">
+  <a href="https://github.com/Rakesh-18112006" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -113,14 +113,14 @@ I'm a **Fullstack Developer** who lives at the intersection of scalable web apps
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=RakeshMummana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh-18112006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshMummana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-18112006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshMummana&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh-18112006a&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 ---
@@ -130,7 +130,7 @@ I'm a **Fullstack Developer** who lives at the intersection of scalable web apps
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RakeshMummana&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh-18112006&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -140,7 +140,7 @@ I'm a **Fullstack Developer** who lives at the intersection of scalable web apps
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RakeshMummana&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh-18112006&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -162,7 +162,7 @@ I'm always open to collaborating on **AI-powered projects**, **fullstack applica
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/RakeshMummana">
+  <a href="https://github.com/Rakesh-18112006">
     <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
