@@ -113,13 +113,19 @@ I'm a **Fullstack Developer** who lives at the intersection of scalable web apps
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Rakesh-18112006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+
   &nbsp;&nbsp;
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-18112006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh-18112006a&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+
+  <img src="https://streak-stats.demolab.com?user=Rakesh-18112006&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
 ---
