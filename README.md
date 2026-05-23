@@ -6,7 +6,7 @@
 <!-- ═══════════════════════════ SECTION A: ANIMATED HEADER ═══════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Rakesh+Mummana+👋;Fullstack+Developer+%7C+1+Year+XP;MERN+%7C+PERN+%7C+AI+%7C+GenAI;Agentic+AI+%7C+DevOps+%7C+AWS;Building+the+Future+with+Code+🚀" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Rakesh+Mummana+👋;Fullstack+Developer+|+1+Year+XP;MERN+|+PERN+|+AI+|+GenAI;Agentic+AI+|+DevOps+|+AWS;Building+the+Future+with+Code+🚀)
 </div>
 
 <div align="center">
