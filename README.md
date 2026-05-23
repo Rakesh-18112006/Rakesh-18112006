@@ -110,13 +110,15 @@ I'm a **Fullstack Developer** who lives at the intersection of scalable web apps
 
 ## 📊 GitHub Stats
 
+# GitHub Stats
+
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh-18112006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakesh-18112006&theme=github_dark" />
 
-  &nbsp;&nbsp;
+  <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-18112006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakesh-18112006&theme=github_dark" />
 
 </div>
 
